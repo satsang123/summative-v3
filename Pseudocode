@@ -1,0 +1,50 @@
+Start the application
+The loading screen class is called  and loads from 0 % to 100 %
+Then the TitleScreen class is called and there are four buttons on it as well as the application name 
+
+Choose between : Currency Converter, Tax Calculator, Income Tax Calcualtor, and exit
+
+Click on Exit button :
+  Exits the application
+  
+Click on Currency Converter Button :
+  The MyCurrencyConverter class is called
+  Click on the dropdown menu on the left to choose the currecny you want to convert from
+  Enter the amount
+  Click on the dropdown menu on the right to choose you want to 
+  Enter the amount 
+  Click on convert 
+  The reset button resets everything 
+  If invalid input is given, Ouput :
+    MAKE SURE YOU SELECT BOTH COUNTRIES AND GIVE VALID INPUT FOR CURRENCY
+    
+Click on the Tax Calculator Button:
+  The Tax_Calculator class is called
+  Choose from the dropdown menu which category you want to calucalte the tax of
+  Enter the amount 
+  Click Calucalate
+  The reset button resets everything
+  The total cost after tax is displayed
+  If invalid input is given:
+    MAKE SURE YOU SELECTED A CATEGORY AND GIVE A VALID INPUT FOR COST
+    
+Click on the Income Tax Calcualtor Button:
+  The Income_Tax class is called 
+  Enter an amount for annuka salary
+  Click Calcualte button
+  Displays salary after tax 
+  Reset button resets averything
+  If invalid input is given:
+    MAKE SURE YOU ENTERED VALID NUMBER FOR SALARY
+
+A person can exit the application any time and only do one at a time
+After finishing an application, a person can do another one 
+    
+ 
+
+  
+  
+  
+  
+  
+  
